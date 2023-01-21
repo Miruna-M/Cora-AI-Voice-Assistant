@@ -3,7 +3,7 @@ This is a python program that uses PyAudio to follow voice commands and converse
 
 It can respond to the following commands: 
 
-1. Name\
+1. **Name**\
    When asked, the program can tell the user its name, and if the user's name has not already been provided, it will ask for the user's name. Once the user provides    their name, the program remembers it to be used in further conversation.
   
 2. Greeting\
