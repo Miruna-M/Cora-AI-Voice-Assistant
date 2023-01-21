@@ -56,3 +56,7 @@ It can respond to the following commands:
     
 18. **Exit Program**\
     Upon verbal request, the program ends and says goodbye.
+
+The program recognizes requests by keywords and expressions. Although I have listed the most common keywords and expressions for each type of request, there are still so many ways of saying something. 
+
+I am currently working on implementing Language Objects to encompass every way of making a verbal request for each purpose. In this manner, no matter which way the user expresses a request, the program can recognize it and perform the required task.
