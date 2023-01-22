@@ -1,4 +1,4 @@
-# Virtual-AI-Voice-Assistant
+# Cora-AI-Voice-Assistant
 This is a python program that uses PyAudio to follow voice commands and converse with the user in return. It is an Artificial Intelligence program that takes in the user's voice command as an audio file, transcribes it in text, then responds back both through audio and in text. The program adjusts for ambient noise, then listens for the user's commands. 
 
 It can respond to the following commands: 
